@@ -1,0 +1,9 @@
+# Model weights (too large)
+*.safetensors
+*.bin
+*.pt
+*.pth
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
