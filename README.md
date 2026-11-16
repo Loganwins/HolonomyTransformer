@@ -81,4 +81,4 @@ See `cfhot_development_log.md` for the full journey:
 
 ## License
 
-MIT
+Apache-2.0. See `LICENSE`.
